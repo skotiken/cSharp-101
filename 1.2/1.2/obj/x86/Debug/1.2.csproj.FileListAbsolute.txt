@@ -1,0 +1,6 @@
+/Users/dmitrijsfedorenko/Documents/GitHub/cSharp-101/1.2/1.2/bin/Debug/1.2.exe
+/Users/dmitrijsfedorenko/Documents/GitHub/cSharp-101/1.2/1.2/bin/Debug/1.2.pdb
+/Users/dmitrijsfedorenko/Documents/GitHub/cSharp-101/1.2/1.2/obj/x86/Debug/1.2.csprojAssemblyReference.cache
+/Users/dmitrijsfedorenko/Documents/GitHub/cSharp-101/1.2/1.2/obj/x86/Debug/1.2.csproj.CoreCompileInputs.cache
+/Users/dmitrijsfedorenko/Documents/GitHub/cSharp-101/1.2/1.2/obj/x86/Debug/1.2.exe
+/Users/dmitrijsfedorenko/Documents/GitHub/cSharp-101/1.2/1.2/obj/x86/Debug/1.2.pdb
